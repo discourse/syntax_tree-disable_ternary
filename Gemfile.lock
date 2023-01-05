@@ -1,0 +1,20 @@
+PATH
+  remote: .
+  specs:
+    syntax_tree-disable_ternary (1.0.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rake (13.0.6)
+
+PLATFORMS
+  arm64-darwin-21
+  ruby
+
+DEPENDENCIES
+  rake (~> 13.0)
+  syntax_tree-disable_ternary!
+
+BUNDLED WITH
+   2.4.1
